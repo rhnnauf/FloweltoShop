@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100&display=swap');
+  body{
+  background-color:#FFD5EA;
+
+  }
+
+.flex-middle{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 400px;
+}
+
+#buttonSubmit{
+  width: 150px;
+  height: 40px;
+}
+
+.class{
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+.mid{
+  text-align: center;
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+.form-control{
+  font-family: 'Montserrat';
+  font-weight: 700;
+}
+
+.flex{
+  display: flex;
+}
+
+.bg-primary{
+  background-color: #FF69B4!important;
+}
+
+.card-img{
+  width: 500px;
+  height: 500px;
+  /* object-fit: cover; */
+}
+
+.text-center{
+  color: black;
+  text-align: center;
+}
+
+.img-thumbnail-guest{
+  width: 235px;
+  height: 250px;
+}
+
+.update-product-img{
+  width: 400px;
+  height: 400px;
+}
+
+.product-detail-img{
+  width: 400px;
+  height: 400px;
+}
+
+
+.img-thumbnail-manager{
+  width: 320px;
+  height: 300px;
+}
+
+#gambar{
+  width: 100px;
+  height: 100px;
+}
+
+
+
